@@ -9,7 +9,7 @@
 Motorsport Manager helps by breaking down complex management tasks into manageable steps, using a step-by-step multiple choice process. This approach ensures that users can make informed decisions about team strategy, vehicle tuning, and race tactics. Additionally, it keeps users updated with the latest industry news, allowing them to stay ahead of trends and developments in the motorsports world. Whether it's optimizing vehicle performance, choosing the right race tactics, or assessing driver capabilities, Motorsport Manager provides comprehensive support to help users succeed in the high-stakes world of motorsports.
 
 #
-![Checkered](https://github.com/user-attachments/assets/84051a04-ca38-45ee-ab98-95bdd389eb99) ![Checkered](https://github.com/user-attachments/assets/84051a04-ca38-45ee-ab98-95bdd389eb99) ![Checkered](https://github.com/user-attachments/assets/84051a04-ca38-45ee-ab98-95bdd389eb99) ![Checkered](https://github.com/user-attachments/assets/84051a04-ca38-45ee-ab98-95bdd389eb99)
+![Checkered](https://github.com/user-attachments/assets/87cc0daa-e4d6-493b-9665-76b08252c11b) ![Checkered](https://github.com/user-attachments/assets/87cc0daa-e4d6-493b-9665-76b08252c11b) ![Checkered](https://github.com/user-attachments/assets/87cc0daa-e4d6-493b-9665-76b08252c11b) ![Checkered](https://github.com/user-attachments/assets/87cc0daa-e4d6-493b-9665-76b08252c11b)
 
 #
 ### Related Links
