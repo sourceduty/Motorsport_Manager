@@ -25,6 +25,8 @@ Motorsport Manager helps by breaking down complex management tasks into manageab
 [Vehicle Rating](https://github.com/sourceduty/Vehicle_Rating)
 <br>
 [EV](https://github.com/sourceduty/EV)
+<br>
+[Game Hacker](https://github.com/sourceduty/Game_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
