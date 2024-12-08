@@ -1,4 +1,4 @@
-![Motorsport Manager](https://github.com/user-attachments/assets/ebb17901-5711-4dab-849e-54019c16f0f9)
+![NASCAR Background](https://github.com/user-attachments/assets/410b7fa0-f8a3-4669-a825-9b20a90e9c3e)
 
 > Motorsport management advisor.
 
@@ -12,6 +12,8 @@ Motorsport Manager helps by breaking down complex management tasks into manageab
 ![Off-Road Formula 1 Racecar](https://github.com/user-attachments/assets/a0ddf67c-409d-4a7a-a519-08f71221b754)
 #
 ![Checkered](https://github.com/user-attachments/assets/87cc0daa-e4d6-493b-9665-76b08252c11b) ![Checkered](https://github.com/user-attachments/assets/87cc0daa-e4d6-493b-9665-76b08252c11b) ![Checkered](https://github.com/user-attachments/assets/87cc0daa-e4d6-493b-9665-76b08252c11b) ![Checkered](https://github.com/user-attachments/assets/87cc0daa-e4d6-493b-9665-76b08252c11b)
+#
+![Racing](https://github.com/user-attachments/assets/e48b9ad6-c0e1-40b9-95ef-9c72602fe7ad)
 
 #
 ### Related Links
